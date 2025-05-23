@@ -28,7 +28,8 @@ This project implements a Human Action Recognition system using computer vision 
 - Matplotlib
 
 📊 Results
-Validation Accuracy: XX%
+Training Accuracy : 93.9%%
+Validation Accuracy: 97.42%
 
 📌 Future Enhancements
 Add real-time webcam-based action recognition.
